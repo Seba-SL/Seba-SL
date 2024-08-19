@@ -1,8 +1,9 @@
-### Buenas 👋
+<h1> Buenas 👋 </h1>
 
 - 🌱 I’m currently learning ...
   
--> Mi portafolio : https://seba-sl.github.io
+-> Mi portafolio : <img src="https://github.com/user-attachments/assets/f34938ce-41de-4a42-8271-9ec471fb3fb1" width="30"></img>  https://seba-sl.github.io
+
 
 
 ![imagen](https://github.com/user-attachments/assets/464e1cb4-5575-4c94-91a2-34d0add2829f)
