@@ -13,8 +13,6 @@
   <img src="https://github.com/user-attachments/assets/94a6760d-9ea8-4665-b276-e61a8c13971b" width="300" height="400" />
   <img src="https://github.com/user-attachments/assets/f851a1d9-82ac-4b3c-8366-c5d4fa6c4ec7" width="200" height="400" />
   <img src="https://github.com/user-attachments/assets/8dec6844-6f43-4712-a9a7-e7d6743971a0" width="250" height="400" />
-   <img src="https://github.com/user-attachments/assets/89b4cec6-2a4f-4d38-ad94-7146c4dcc4c2" width="300" height="400" />
-
 </p>
 
 
@@ -25,6 +23,8 @@
 
 
 ![pcbsinmontarfiltro](https://github.com/user-attachments/assets/15769b2c-9a48-4a1b-a634-55740ef07493)
+
+
 
 
 ![imagen](https://github.com/user-attachments/assets/464e1cb4-5575-4c94-91a2-34d0add2829f)
