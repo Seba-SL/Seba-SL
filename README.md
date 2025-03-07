@@ -26,6 +26,10 @@
 
 
 
+![pcbScoppy](https://github.com/user-attachments/assets/da750738-d741-4a64-aea6-6d07e564d504)
+
+
+
 
 ![imagen](https://github.com/user-attachments/assets/464e1cb4-5575-4c94-91a2-34d0add2829f)
 
