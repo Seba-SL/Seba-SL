@@ -1,4 +1,4 @@
-<h1> Buenas 👋 </h1>
+<h1> <img src="https://github.com/user-attachments/assets/f34938ce-41de-4a42-8271-9ec471fb3fb1" width="30"></img> Buenas 👋 </h1>
 
 - 🌱 I’m currently learning ...
   
@@ -8,7 +8,6 @@
 -> Youtube: https://www.youtube.com/@SebastianLazo-alumno
 
 
-<img src="https://github.com/user-attachments/assets/f34938ce-41de-4a42-8271-9ec471fb3fb1" width="30"></img>
 
 
 <!--
