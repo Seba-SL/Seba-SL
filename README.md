@@ -2,13 +2,13 @@
 
 - 🌱 I’m currently learning ...
   
--> Mi portafolio : <img src="https://github.com/user-attachments/assets/f34938ce-41de-4a42-8271-9ec471fb3fb1" width="30"></img>  https://seba-sl.github.io 
+-> Mi portafolio :  https://seba-sl.github.io 
 
 
 -> Youtube: https://www.youtube.com/@SebastianLazo-alumno
 
 
-
+<img src="https://github.com/user-attachments/assets/f34938ce-41de-4a42-8271-9ec471fb3fb1" width="30"></img>
 
 
 <!--
