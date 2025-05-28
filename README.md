@@ -16,36 +16,6 @@
 </p>
 
 
-![laboratorioFIUBA](https://github.com/user-attachments/assets/6ea59f73-9dfb-4ce8-bdb5-8e7ba8e32dce)
-
-
-![pcbFiltro](https://github.com/user-attachments/assets/dfb7c4e8-5057-4e67-9a7a-35980f60d9ec)
-
-
-![pcbsinmontarfiltro](https://github.com/user-attachments/assets/15769b2c-9a48-4a1b-a634-55740ef07493)
-
-
-
-![pcbScoppy](https://github.com/user-attachments/assets/da750738-d741-4a64-aea6-6d07e564d504)
-
-
-
-
-![imagen](https://github.com/user-attachments/assets/464e1cb4-5575-4c94-91a2-34d0add2829f)
-
-![imagen](https://github.com/user-attachments/assets/eb4b4f46-21ae-450a-8168-9029e7c5b07e)
-
-![imagen](https://github.com/user-attachments/assets/a2ce83b6-1b29-480b-9865-3e2703b1ed9b)
-
-
-
-![imagen](https://github.com/user-attachments/assets/b3e14665-5b98-4f09-aaf5-7739f78f6bc0)
-
-
-![imagen](https://github.com/user-attachments/assets/10e07931-cb92-4fdb-8cf4-426d8f5361a0)
-
-
-
 
 
 <!--
